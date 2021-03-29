@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="E:\Python\Proiecte\Final Blog\Proclife">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="E:\Python\Proiecte\Final Blog\main.py">
           <value>
             <Attribute>
